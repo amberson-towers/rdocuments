@@ -1,7 +1,7 @@
 
-# Amberson Towers Condominum <br/> Rules & Regulations 
+# >> 1. Amberson Towers Condominums <br/> Rules & Regulations {-}
 
-*5 Bayard Road*
+*5 Bayard Road, *
 *Pittsburgh, Pennsylvania 15213*
 
 ***
@@ -79,9 +79,9 @@ B. The key to any door shall not be loaned or given to a domestic or attendant u
 
 C. Unit Owners or occupants must not open any entry door for persons whom they do not know.
 
-D. The Property Manager must retain a passkey to each unit. No unit owner shall alter any lock or install a new lock on any door leading to his or her unit unless the owner shall provide the management with a key for management's use.
+[D.](#Sect4D) The Property Manager must retain a passkey to each unit. No unit owner shall alter any lock or install a new lock on any door leading to his or her unit unless the owner shall provide the management with a key for management's use.
 
-E. Except as required in section D above, the unit owner accepts responsibility for any damages resulting as a consequence of keys entrusted by him or his designated agent to any employee pf the Condominium Association.
+E. Except as required in [section D](#Sect4D) above, the unit owner accepts responsibility for any damages resulting as a consequence of keys entrusted by him or his designated agent to any employee pf the Condominium Association.
 
 F. No keys to any unit shall be left in the management office without notice to and acceptance by office management, and no keys shall be left to be given to any person other than an owner to that unit.
 
@@ -91,7 +91,7 @@ A. Nothing shall be done or kept in any unit in the common elements which will i
 
 B. Nothing shall be thrown or emptied by the owners or their tenants or servants out of the window or doors, or down the stairways, or in the common areas, nor sh.all anything be hung from outside of the window sills.
 
-C. No occupant shale interfere in any manner with any portion either of the heating or electrical apparatus in or about the building.
+C. No occupant shall interfere in any manner with any portion either of the heating or electrical apparatus in or about the building.
 
 D. The addition of any major appliance, such as frost-free refrigerators, convection ovens, and room-sized humidifiers, shall require approval of Council. Washers and dryers, electric ranges, and window air conditioners are not permitted.
 
@@ -133,13 +133,13 @@ V. Prospective buyers must be confined to the seller's unit.
 
 W. Any consent or approval given under these Rule and Regulations may be added to, amended or repealed at any time by resolution of the Council.
 
-X. In addition to the alternative procedure set out in Article IX, alleged violators of these Rules and Regulations, the Code of Regulations, or Declaration-of the Amberson Towers Condominium may be notified to appear for a direct hearing before the Council, and upon a finding that a violation occurred, Council may levy fines against the violator as set forth in Article IX.
+X. In addition to the alternative procedure set out in [Article IX](#ArtIX), alleged violators of these Rules and Regulations, the Code of Regulations, or Declaration-of the Amberson Towers Condominium may be notified to appear for a direct hearing before the Council, and upon a finding that a violation occurred, Council may levy fines against the violator as set forth in Article IX.
 
 ## IX. Fines, Penalties, Notice, Appeals {-}
 
 ### *Fines & Penalties* {-}
 
-A. Except as otherwise provided herein or elsewhere, fines for violation of Amberson Towers Declaration, Code of Regulations, and its Rules and Regulations as follows:
+[A.](#ArtIX) Except as otherwise provided herein or elsewhere, fines for violation of Amberson Towers Declaration, Code of Regulations, and its Rules and Regulations as follows:
 
   1. For violations of Amberson Towers' Code of Regulations numbered as Article XVII, prohibiting smoking in the units and common areas of Amberson Towers, the fines shall be as follows:
       + 1st Violation:$50.00 
@@ -186,7 +186,7 @@ E. The Property Manager or maintenance supervisor is authorized to monitor and c
 
 A. Alternative dispute resolution shall be available in all cases to resolve disputes between two or more unit owners, tenants and occupants, or between unit owners and the Association as set out in Part B below, subject to the following:
 
-  1. Alternative dispute resolution in the form of mediation shall be limited to disputes where all parties agree to alternative dispute resolution in accordance with Section 3321 (b)(2) of the Pennsylvania Uniform Condominium Act.
+  1. Alternative dispute resolution in the form of mediation shall be limited to disputes where all parties agree to alternative dispute resolution in accordance with [Section 3321 (b)(2)](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=68&div=0&chpt=33&sctn=21&subsctn=0) of the [Pennsylvania Uniform Condominium Act](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=68f).
     
   2. A request for mediation shall be initiated by submitting a written request to the Manager and describing the nature of the complaint or dispute. 
     
@@ -196,7 +196,7 @@ A. Alternative dispute resolution shall be available in all cases to resolve dis
 
   5. The mediator shall have no financial or personal interest in the result of the mediation.
 
-  6. Within **ten (20)**^[**duration discrepancy in the original**] days after selection of a mediator, the parties shall submit a letter, memorandum, or any other relevant information to the mediator which sets out the parties' positions in the dispute to be resolved. The mediator shall have the right to extend the time or request additional information as deemed necessary1y. 
+  6. Within **ten (20)**^[**duration discrepancy in the original that we must resolve**] days after selection of a mediator, the parties shall submit a letter, memorandum, or any other relevant information to the mediator which sets out the parties' positions in the dispute to be resolved. The mediator shall have the right to extend the time or request additional information as deemed necessary1y. 
 
   7. The parties, their attorneys, representatives of the Association such as the Manager or its legal counsel, and others with the permission of the parties and consent of the mediator, may attend the mediation sessions. 
 
@@ -204,4 +204,4 @@ A. Alternative dispute resolution shall be available in all cases to resolve dis
 
   9. The fees and costs of mediation, excluding attorney fees, shall be assessed equally against all parties to the dispute, except that the expenses of witnesses for either side shall be paid by the party producing such witnesses.
 
-B. Alternative dispute resolution shall also be available in all cases to resolve disputes or complaints between unit owners and the Association relating to meetings, quorums, voting, proxies, and association records under Sections 3308, 3309, 3310, and 3316 of the [Pennsylvania Uniform Condominium Act](https://www.ncsl.org/documents/environ/PAcondo.pdf). 
+B. Alternative dispute resolution shall also be available in all cases to resolve disputes or complaints between unit owners and the Association relating to meetings, quorums, voting, proxies, and association records under Sections [3308](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=68&div=0&chpt=33&sctn=8&subsctn=0), [3309](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=68&div=0&chpt=33&sctn=9&subsctn=0), [3310](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=68&div=0&chpt=33&sctn=10&subsctn=0), and [3316](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=68&div=0&chpt=33&sctn=16&subsctn=0) of the [Pennsylvania Uniform Condominium Act](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=68f). 
