@@ -27,7 +27,7 @@ github-repo: rstudio/bookdown-demo
 
 - **The Code of Regulations** - Regulates how the building is governed, for example how Council is elected.  Requires agreement of 60% ow owners to amend. First filed  April 12, 1978 and has been amended seven times (September 1978, 1990, 1994, 1996, 2000, 2016, and 2017).
 
- <center><a href=https://ambersontowers.org" title="Visit Amberson Towers website" target="_blank"><img src="amber3.jpg" alt="Amberson Towers" border="1" ></a></center>
+![](amber3.jpg)
 
 ***
 
