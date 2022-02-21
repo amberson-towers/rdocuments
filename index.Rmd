@@ -23,9 +23,11 @@ github-repo: rstudio/bookdown-demo
 - **The Rules and Regulations** - General rules which can be amended by a majority vote of the Council.  Last amended in approximately September 2018.
 
  
-- **The Declaration** - Mostly detailed information about the building, such as surveyor's coordinates and voting share of each unit.  Takes precedence over other documents. Requires agreement of 60% ow owners to amend.  First filed on March 14, 1978 and amended twice, most recently September 12, 1978, but only with very minor changes.
+- **The Declaration** - Mostly detailed information about the building, such as surveyor's coordinates and voting share of each unit.  Takes precedence over other documents. Requires agreement of 60% owners to amend.  First filed on March 14, 1978 and amended twice, most recently September 12, 1978, but only with very minor changes.
 
 - **The Code of Regulations** - Regulates how the building is governed, for example how Council is elected.  Requires agreement of 60% ow owners to amend. First filed  April 12, 1978 and has been amended seven times (September 1978, 1990, 1994, 1996, 2000, 2016, and 2017).
+
+Provided in [Appendix A](#documents) are links to source doxcuments for *The Declaration* and *The Code of Regulations*.
 
 ![](amber3.jpg)
 
