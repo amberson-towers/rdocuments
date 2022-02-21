@@ -2,25 +2,32 @@
 title: "Governing Documents <br/>Amberson Towers Condominums"
 date: "Last Association Revision: October 13, 2021; Last Draft Build: February 15, 2020"
 site: bookdown::bookdown_site
+fontsize: 14pt
+font: Arial
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+cover-image: amber.jpg
 description: 
   This document is a copy of Amberson Towers Documents on https://ambersontowers.com/governance/bylaws that are under consideration for revision. 
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About These Documents {-}
+# {-}
 
-The governing documents of Amberson Towers comprise three separate documents:
+## Three Documents Define Governance {-}
+
+ The governing documents of Amberson Towers comprise three separate documents:
 
 - **The Rules and Regulations** - General rules which can be amended by a majority vote of the Council.  Last amended in approximately September 2018.
 
+ 
 - **The Declaration** - Mostly detailed information about the building, such as surveyor's coordinates and voting share of each unit.  Takes precedence over other documents. Requires agreement of 60% ow owners to amend.  First filed on March 14, 1978 and amended twice, most recently September 12, 1978, but only with very minor changes.
 
 - **The Code of Regulations** - Regulates how the building is governed, for example how Council is elected.  Requires agreement of 60% ow owners to amend. First filed  April 12, 1978 and has been amended seven times (September 1978, 1990, 1994, 1996, 2000, 2016, and 2017).
+
+ <center><a href=https://ambersontowers.org" title="Visit Amberson Towers website" target="_blank"><img src="amber3.jpg" alt="Amberson Towers" border="1" ></a></center>
 
 ***
 
