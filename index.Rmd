@@ -1,5 +1,5 @@
 ---
-title: "Governing Documents <br/>Amberson Towers Condominums"
+title: "Governing Documents <br/>Amberson Towers Condominiums"
 date: "Last Association Revision: October 13, 2021; Last Draft Build: February 15, 2020"
 site: bookdown::bookdown_site
 fontsize: 14pt
